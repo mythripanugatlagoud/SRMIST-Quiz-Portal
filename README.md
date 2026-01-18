@@ -7,7 +7,7 @@ The portal allows **students to attempt Continuous Tests (CT1, CT2, CT3)** and *
 ---
 
 ## Features 
-
+ 
 ### Student
 - Register using SRM Registration Number
 - Login with email and password
