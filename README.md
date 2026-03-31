@@ -4,7 +4,7 @@ A role-based quiz management system developed for **SRM Institute of Science and
 
 The portal allows **students to attempt Continuous Tests (CT1, CT2, CT3)** and **faculty to create and manage quiz questions** for different subjects.
 
----
+--- 
 
 ## Features 
   
